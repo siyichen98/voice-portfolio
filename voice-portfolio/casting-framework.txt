@@ -1,0 +1,43 @@
+SIYI CHEN — CASTING EVALUATION TEMPLATE
+Reconstructed from my production workflow. Not an original client scorecard.
+This blank template contains no historical candidate ratings.
+
+PROJECT / ROLE:
+BRIEF / INTENDED USE:
+CANDIDATE ID:
+AUDITION EXCERPT / TIMECODE:
+
+For each dimension, record an observation with an example from the audition.
+
+1. CHARACTER FIT
+Does the delivery convey the personality and relationships the role requires?
+Observation:
+
+2. PERCEIVED VOCAL AGE
+Does the voice sound the age needed for the role?
+Observation:
+
+3. TIMBRE
+What tonal or textural qualities support or conflict with the role?
+Observation:
+
+4. CLARITY
+Are the words intelligible? Are there articulation or pronunciation concerns?
+Observation:
+
+5. NATURALNESS AND PERFORMANCE
+Does the delivery convey believable intent, rhythm, and emotional changes?
+Observation:
+
+6. RECORDING QUALITY
+Are noise, distortion, or other technical issues affecting the evaluation?
+Observation:
+
+RECOMMENDATION:
+[ ] Recommend to director
+[ ] Request another take with specific direction
+[ ] Consider another candidate
+
+REASON:
+NEXT DIRECTION OR TECHNICAL ACTION:
+FINAL APPROVAL OWNER:
